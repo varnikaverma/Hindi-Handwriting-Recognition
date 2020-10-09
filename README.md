@@ -6,7 +6,7 @@ Install Conda for python which resolves all the dependencies for machine learnin
 ## Technique Used 
 I have used Convolutional Neural Networks (CNN). I have used Tensorflow as the framework and Keras API for providing a high level of abstraction.
 ## Python Implementation 
-1. Dataset - Devnagari Character Dataset 
+1. Dataset - Devnagari Character Dataset (To put the zip files back together : Select both data.part01 and data.part02, then right click and select Extract here)
 2. Images of size 32X32
 3. Convolution Network Support added. 
 ## Train Accuracy ~ 99.06%
